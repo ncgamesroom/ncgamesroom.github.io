@@ -7,7 +7,7 @@ This project was created in preparation for pool and table tennis competitions t
 ### Languages
 * CSS
 * HTML
-* Python
+* JavaScript
 ### Deployment Date
 > 18/07/2021
 ### Additional Comments
