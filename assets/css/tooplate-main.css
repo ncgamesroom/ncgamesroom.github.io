@@ -398,6 +398,7 @@ nav a::before {
   text-transform: uppercase;
   font-weight: 700;
   color: #fff;
+  -webkit-text-stroke: 2px black;
 }
 .slide-caption h2 {
   margin-top: 0px;
