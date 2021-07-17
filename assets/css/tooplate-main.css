@@ -413,8 +413,8 @@ nav a::before {
 
 /* Slide 2 Style */
 .second-content {
-	top: 180%!important;
-	transform: translateY(-180%);
+	top: 120%!important;
+	transform: translateY(-120%);
 }
 #tabs {
   float: right;
