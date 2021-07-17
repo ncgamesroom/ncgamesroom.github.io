@@ -1,4 +1,4 @@
-# ncgamesroom.github.io
+# ncgamesroom.github.io: A Simpler Way of Organising Comps
 A github repository used to host a website for managing games room events at New College. The website can be found at [ncgamesroom.github.io](https://ncgamesroom.github.io).
 ### Author
 > Nila Riahi
