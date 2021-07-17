@@ -1,5 +1,5 @@
 # ncgamesroom.github.io
-A github repository used to host a website for managing games room events at New College. The website can be found [here](https://ncgamesroom.github.io).
+A github repository used to host a website for managing games room events at New College. The website can be found at [ncgamesroom.github.io](https://ncgamesroom.github.io).
 ### Author
 > Nila Riahi
 ### Description
@@ -8,3 +8,7 @@ This project was created in preparation for pool and table tennis competitions t
 * CSS
 * HTML
 * Python
+### Deployment Date
+> 18/07/2021
+### Additional Comments
+Features are expected change over time. New functionality such as sign up sheets and matchup brackets will be added when required.
